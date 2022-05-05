@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunkumar201
-- 👀 I’m interested in new technologies
+- 👀 I’m interested in new technologies(MERN)
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me 
