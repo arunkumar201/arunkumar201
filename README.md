@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **on new technologies**
+- 👯 I’m looking to collaborate **on new technologies**
 
 - 📝 I write articles on [https://medium.com/@arunprajapati9825](https://medium.com/@arunprajapati9825)
 
