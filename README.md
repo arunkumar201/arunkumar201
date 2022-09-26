@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arunkumarp2020/](https://www.linkedin.com/in/arunkumarp2020/)
 
-- ⚡ Fun fact **I love to cook**
+- ⚡ Fun fact **I Always prefer challenges as it makes life more interesting to deal with and also I love to cook**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
