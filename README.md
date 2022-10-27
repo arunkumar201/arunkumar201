@@ -17,21 +17,12 @@
 
 - 📫 How to reach me **arunprajapati1091@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arunkumarp2020/](https://www.linkedin.com/in/arunkumarp2020/)
-
+- 
 - ⚡ Fun fact **I Always prefer challenges as it makes life more interesting to deal with and also I love to cook**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Akumar2018"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Akumar2018" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&locale=en" alt="arunkumar201" /></p>
 
