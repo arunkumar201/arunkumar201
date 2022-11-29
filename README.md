@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on **Final Year Major Project**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs,Nodejs**
+- interested in Web3, Blockchain, Solidity World.
 
 - 👯 I’m looking to collaborate **on new technologies**
 
@@ -18,7 +19,6 @@
 - 💬 Ask me about **React,JS,JAVA,Data Structure And Algorithm**
 
 - 📫 How to reach me **arunprajapati1091@gmail.com**
-
 - 
 - ⚡ Fun fact **I Always prefer challenges as it makes life more interesting to deal with and also I love to cook**
 
