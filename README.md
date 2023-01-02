@@ -16,7 +16,7 @@
 
 - 📝 I write articles on [https://medium.com/@arunprajapati9825](https://medium.com/@arunprajapati9825)
 
-- 💬 Ask me about **React,JS,JAVA,Data Structure And Algorithm**
+- 💬 Ask me about **React,JS,JAVA,Data Structures And Algorithms**
 
 - 📫 How to reach me **arunprajapati1091@gmail.com**
 - ⚡ Fun fact **I Always prefer challenges as it makes life more interesting to deal with and also I love to cook**
