@@ -19,7 +19,6 @@
 - 💬 Ask me about **React,JS,JAVA,Data Structure And Algorithm**
 
 - 📫 How to reach me **arunprajapati1091@gmail.com**
-- 
 - ⚡ Fun fact **I Always prefer challenges as it makes life more interesting to deal with and also I love to cook**
 
 ### Blogs posts
