@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Final Year Major Project**
 
-- 🌱 I’m currently learning **ReactJs,Nodejs**
+- 🌱 I’m currently learning **NestJs,Graphql,ReactJs,Nodejs**
 - interested in Web3, Blockchain, Solidity World.
 
 - 👯 I’m looking to collaborate **on new technologies**
