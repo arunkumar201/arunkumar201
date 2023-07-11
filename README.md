@@ -14,7 +14,6 @@
 
 - 👯 I’m looking to collaborate **on new technologies**
 
-- 📝 I write articles on [https://medium.com/@arunprajapati9825](https://medium.com/@arunprajapati9825)
 
 - 💬 Ask me about **React,JS,JAVA,Data Structures And Algorithms**
 
