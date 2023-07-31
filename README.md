@@ -7,10 +7,10 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arunkumar201
  alt=arunkumar201/></p>
 
-- 🔭 I’m currently working on **Final Year Major Project**
+- 🔭 I’m currently working on **NextJs 13.4,Graphql, REDUX TOOLKIT, TYPESCRIPT**
 
-- 🌱 I’m currently learning **NestJs,Graphql,ReactJs,Nodejs**
-- interested in Web3, Blockchain, Solidity World.
+- 🌱 I’m currently learning **DOCKER,AWS, NEXTJS,REACT, REDUX,GRAPHQL**
+- interested in Web3, Blockchain, and Solidity World.
 
 - 👯 I’m looking to collaborate **on new technologies**
 
