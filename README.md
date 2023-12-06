@@ -7,9 +7,8 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arunkumar201
  alt=arunkumar201/></p>
 
-- 🔭 I’m currently working on **NextJs 13.4,Graphql, REDUX TOOLKIT, TYPESCRIPT**
-
-- 🌱 I’m currently learning **DOCKER,AWS, NEXTJS,REACT, REDUX,GRAPHQL**
+- 🔭 I’m currently working on **NextJs, Nodejs, MongoDB, Express, Redis, JS, TYPESCRIPT,TailwindCSS **
+- 
 - interested in Web3, Blockchain, and Solidity World.
 
 - 👯 I’m looking to collaborate **on new technologies**
