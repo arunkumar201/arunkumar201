@@ -7,12 +7,11 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arunkumar201
  alt=arunkumar201/></p>
 
-- 🔭 I’m currently working on **NextJs, Nodejs, MongoDB, Express, Redis, JS, TYPESCRIPT,TailwindCSS **
-- 
+- 🔭 I’m currently working on **NextJs, Nodejs, MongoDB, Express, Redis, JS, TYPESCRIPT,TailwindCSS**
+ 
 - interested in Web3, Blockchain, and Solidity World.
 
 - 👯 I’m looking to collaborate **on new technologies**
-
 
 - 💬 Ask me about **React,JS,JAVA,Data Structures And Algorithms**
 
