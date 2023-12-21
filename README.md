@@ -13,10 +13,10 @@
 
 - 👯 I’m looking to collaborate **on new technologies**
 
-- 💬 Ask me about **React,JS,JAVA,Data Structures And Algorithms**
+- 💬 Ask me about **React,NextJs ,TS,JS,JAVA, Data Structures And Algorithms**
 
 - 📫 How to reach me **arunprajapati1091@gmail.com**
-- ⚡ Fun fact **I Always prefer challenges as it makes life more interesting to deal with and also I love to cook**
+- ⚡ Fun fact **I Always prefer challenges as it make life more interesting to deal with and also I love to cook**
 
 ###
 ###
