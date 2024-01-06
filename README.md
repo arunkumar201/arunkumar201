@@ -58,6 +58,10 @@
   <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollographql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/E0234E" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" height="40" alt="Java logo"  />
 </div>
 
 <!-- BLOG-POST-LIST:START -->
