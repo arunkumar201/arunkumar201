@@ -1,25 +1,44 @@
+<div align="center" style="font-family: 'Roboto', sans-serif;">
+  <h1>Hello there! 👋 I'm Arun Kumar</h1>
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+<div align="left" style="font-family: 'Roboto', sans-serif;">
 
-<h1 align="center">Hi there👋, I'm Arun Kumar</h1>
-<h3 align="center">A passionate  developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 👨‍💻 About Me
 
-##  :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=arunkumar201
- alt=arunkumar201/></p>
+Greetings! I'm Arun Kumar, a passionate developer hailing from the vibrant tech landscape of India. I thrive on challenges, making life more interesting with each coding conquest.
 
-- 🔭 I’m currently working on **NextJs, Nodejs, MongoDB, Express, Redis, JS, TYPESCRIPT,TailwindCSS**
- 
-- interested in Web3, Blockchain, and Solidity World.
+## 🚀 Current Focus
 
-- 👯 I’m looking to collaborate **on new technologies**
+- 🔭 I'm currently immersed in projects involving cutting-edge technologies such as NextJs, Nodejs, MongoDB, Express, Redis, JS, TypeScript, and TailwindCSS.
+  
+- 🌐 Intrigued by the Web3 revolution, I have a keen interest in the Blockchain and Solidity world.
 
-- 💬 Ask me about **React,NextJs ,TS,JS,JAVA, Data Structures And Algorithms**
+## 🤝 Let's Collaborate
 
-- 📫 How to reach me **arunprajapati1091@gmail.com**
-- ⚡ Fun fact **I Always prefer challenges as it make life more interesting to deal with and also I love to cook**
+- 👯 I'm open to collaborations on innovative projects and eager to explore new technologies that push the boundaries of what's possible.
 
-###
-###
+## 💬 Expertise
+
+- Ask me anything about React, NextJs, TypeScript, JavaScript, Java, Data Structures, and Algorithms. I'm always up for a coding conversation.
+
+## 📫 Reach Out
+
+- 📧 Feel free to reach me at **arunprajapati1091@gmail.com** for any inquiries, collaborations, or just a good tech chat.
+
+## ⚡ Fun Facts
+
+- Did you know? I always embrace challenges as they add spice to life. Plus, I have a secret talent—I love to cook up not just code but delicious meals too!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar201" alt="arunkumar201 profile views"></p> 
+
+<div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Thanks for dropping by! Let's create something amazing together!</div>
+
+
+</div>
+
+<!-- Add your blog post list, GitHub stats, and streak stats here -->
+## 👨🏼‍💻 My Tech Stack : 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
