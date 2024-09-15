@@ -34,7 +34,7 @@ Streamline your backend development with our robust, production-ready starter ki
 - Built with Next.js 14, NextAuth, Tailwind CSS, and PostgreSQL Prisma database. 
 - Link : [Source Code](https://github.com/arunkumar201/rest-api-using-ts)
   
-### Dapp Survey Platform (SurveyBull) 
+### Dapp Survey Platform 
 - **Tech Stack**: Next.js 14, React, TypeScript, Tailwind CSS, Node.js, Prisma, PostgreSQL, Ethers.js, Web3.js, WorldID
 - Engineered a Web3 survey platform with WorldID authentication and blockchain-based rewards
 - Implemented cross-chain wallet integrations and optimized smart contract interactions
