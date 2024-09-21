@@ -35,7 +35,7 @@ Streamline your backend development with our robust, production-ready starter ki
 
   
 ### Dapp Survey Platform 
-- **Tech Stack**: Next.js 14, React, TypeScript, Tailwind CSS, Node.js, Prisma, PostgreSQL, Ethers.js, Web3.js, WorldID
+- **Tech Stack**: Next.js 14, React, TypeScript,Zod,Tailwind CSS, Node.js, Prisma, PostgreSQL, Ethers.js, Web3.js,Wagmi , veim,web3-modal,WorldID.
 - Engineered a Web3 survey platform with WorldID authentication and blockchain-based rewards
 - Implemented cross-chain wallet integrations and optimized smart contract interactions
 - Developed high-performance UI components and RESTful APIs for seamless service integration
