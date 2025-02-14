@@ -93,8 +93,8 @@ Non-custodial exchange supporting 10+ chains with slippage protection
   - LinkedIn: [arunkumarp2020](https://www.linkedin.com/in/arunkumarp2020/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar201&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" width="58%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar201&theme=radical" width="58%" />
 </div>
 
 <p align="center">
