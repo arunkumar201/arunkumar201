@@ -1,97 +1,103 @@
 <div align="center">
-  <h1>Hello there! 👋 I'm Arun Kumar</h1>
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
-## 👨‍💻 About Me
-
-Greetings! I'm Arun Kumar, a passionate full-stack developer from India, specializing in Full stack, Web3 and blockchain technologies. I thrive on challenges and love turning complex problems into elegant solutions.
-
-## 🚀 Current Focus
-- 🔭 Building scalable, distributed applications with MERN, Next.js, NestJS, and Go for high-performance solutions.
-- 🔭 Developing cutting-edge Web3 applications and decentralized systems
-- 🌐 Exploring advanced blockchain technologies and smart contract development
-- 📊 Building high-performance, scalable web applications with modern frameworks in JS/TS ecosystem.
-
-## 💼 Recent Projects
-### 🚀 Ultimate Backend API Starter Kit
-Streamline your backend development with our robust, production-ready starter kit built with TypeScript, Express.js, Zod, and Mongoose.
-
-🔥 Key Features:
-- Type-safe API with TypeScript & Zod
-- Redis caching for fast performance
-- MongoDB integration with Mongoose
-- JWT Authentication & Security with Helmet
-- Rate limiting & CORS for enhanced security
-- Error handling & Logging with Winston
-- Docker support for easy deployment
- & more
-- Link : [Source Code](https://github.com/arunkumar201/rest-api-using-ts)
-
-### Ultimate Authentication Starter Kit for your next app.
-- Packed with features like forgot/reset password, 2FA email authentication, role-based access, and protected routes.
-- Built with Next.js 14, NextAuth, Tailwind CSS, and PostgreSQL Prisma database. 
-- Link : [Source Code](https://github.com/arunkumar201/next-auth-kit)
-
+  <h1>Arun Kumar</h1>
+  <h3>Full Stack & Web3 Developer | Distributed Systems Specialist</h3>
   
-### Dapp Survey Platform 
-- **Tech Stack**: Next.js 14, React, TypeScript,Zod,Tailwind CSS, Node.js, Prisma, PostgreSQL, Ethers.js, Web3.js,Wagmi , veim,web3-modal,WorldID.
-- Engineered a Web3 survey platform with WorldID authentication and blockchain-based rewards
-- Implemented cross-chain wallet integrations and optimized smart contract interactions
-- Developed high-performance UI components and RESTful APIs for seamless service integration
-
-### Multi-chain Decentralized Exchange
-- **Tech Stack**: Next.js 14, React, TypeScript, Tailwind CSS, SwapKit, THORChain Protocol
-- Built a cross-chain DEX powered by THORChain for trustless, non-custodial swaps
-- Designed an intuitive swap interface comparable to leading DEXs like Uniswap
-
-### Crypto Sniper Bot 
-- **Tech Stack**: Next.js 14, React, Node.js, Express, TypeScript, Redis, MongoDB, Web3.js, Bull Queue
-- Developed a high-speed trading bot for automatic token purchases upon liquidity addition
-- Created an admin dashboard for portfolio management and integrated Telegram notifications
-
-## 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
-  <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="Solidity" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="40" alt="Git" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumarp2020/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunkp23)
+  [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://arunp.hashnode.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arunp-portfolio.vercel.app)
 </div>
 
-## 🤝 Let's Collaborate
+## 🚀 Technical Expertise
 
-- 👯 I'm open to collaborating on innovative Web3 and full-stack projects
-- 💬 Ask me about React, Next.js, TypeScript, Blockchain, or anything web development related!
+**Full Stack Architecture**  
+Building scalable distributed systems using:
+- **Frontend**: Next.js 14, React, TypeScript, Redux, GraphQL, Tailwind CSS
+- **Backend**: Node.js, NestJS, Python, AWS (EC2, Lambda), Kafka, RabbitMQ
+- **Databases**: PostgreSQL, MongoDB, Redis with Prisma & Drizzle ORM
+- **DevOps**: Docker, Vercel, CI/CD pipelines, Cloud deployment
 
-## 📫 Get in Touch
+**AI Engineering**  
+Developing intelligent applications with:
+- Generative AI & LLM architectures
+- LangChain & LangGraph for agent systems
+- Next.js AI SDK integrations
+- n8n workflow automation
+- Python data stack (NumPy, Pandas)
 
-- 📧 Email: arunprajapati1091@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arunkumarp2020/)
-- 🐦 [Twitter](https://x.com/arunkp23)
+**Web3 Development**  
+Blockchain solutions featuring:
+- Smart Contracts (Solidity, Hardhat)
+- Multi-chain DApps (Wagmi, Viem, Web3Modal)
+- DeFi protocols (Uniswap, THORChain)
+- WorldID authentication
+- Tokenomics & Airdrop systems
 
-## ⚡ Fun Facts
+## 🔭 Current Focus
 
-- 🍳 When I'm not coding, I'm experimenting in the kitchen – cooking up both code and culinary delights!
-- 🧩 I love solving complex puzzles, both in programming and in real life
+- Building AI-enhanced full stack applications with RAG architectures
+- Developing serverless microservices on AWS
+- Implementing real-time systems with WebSocket & Kafka
+- Optimizing cross-chain swap protocols
+- Creating modular authentication systems
+
+## 🏆 Featured Projects
+
+### Ultimate Backend Starter Kit
+**TypeScript | Express | Redis | Docker**  
+Production-ready backend template with Zod validation, Redis caching, and RBAC  
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/arunkumar201/rest-api-using-ts)
+
+### Web3 Survey Platform
+**Next.js 14 | WorldID | Wagmi | PostgreSQL**  
+Decentralized survey system with blockchain rewards and ZK-proof authentication  
+» Multi-chain wallet integration » Optimized contract interactions
+
+### AI-Powered Trading System
+**Python | LLMs | Kafka | Redis**  
+Algorithmic trading platform with predictive analytics and Telegram bot integration  
+» Real-time market analysis » Automated portfolio management
+
+### Cross-Chain DEX
+**Next.js | THORChain | SwapKit**  
+Non-custodial exchange supporting 10+ chains with slippage protection  
+» Trustless swaps » Liquidity pool analytics
+
+## 🛠 Technology Radar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" alt="Arun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar201&theme=radical" alt="Arun's GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,nestjs,python,aws,kafka,redis,postgres,mongodb,docker,git,solidity,ai,graphql,tailwind,vercel" alt="Tech Stack" />
+</div>
+
+## 📈 Engineering Philosophy
+
+> "Architecting systems that scale elegantly while maintaining developer velocity"
+
+- **Modular Design**: Component-driven development with atomic architecture
+- **Performance First**: Optimized queries, caching strategies, and load testing
+- **Secure Foundations**: OWASP principles, RBAC, and smart contract audits
+- **CI/CD Mindset**: Automated testing and zero-downtime deployments
+
+## 📫 Collaboration Hub
+
+- 💡 **Open For**: 
+  - Full-stack development contracts
+  - Web3 protocol integrations
+  - AI/ML engineering projects
+  - Technical consulting & architecture reviews
+  
+- 📬 **Reach Me**: 
+  - Email: [arunprajapati1091@gmail.com](mailto:arunprajapati1091@gmail.com)
+  - Twitter: [@arunkp23](https://x.com/arunkp23)
+  - LinkedIn: [arunkumarp2020](https://www.linkedin.com/in/arunkumarp2020/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar201&theme=radical" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunkumar201" alt="Profile views" />
+  <i>"The best way to predict the future is to implement it"</i><br>
+  <b>Let's architect tomorrow's solutions today!</b> 🚀
 </p>
-
-<div align="center">Thanks for dropping by! Let's create something amazing together! 🚀</div>
