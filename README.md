@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <h1>Arun Kumar</h1>
-  <h3>Full Stack & Web3 Developer | Distributed Systems Specialist</h3>
+  <h3>Full Stack GEN AI & Web3 Developer | Distributed Systems Specialist</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumarp2020/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunkp23)
