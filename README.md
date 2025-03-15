@@ -3,10 +3,8 @@
   <h1>Arun Kumar</h1>
   <h3>Full Stack GEN AI & Web3 Developer | Distributed Systems Specialist</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumarp2020/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunkp23)
   [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://arunp.hashnode.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arunp-portfolio.vercel.app)
 </div>
 
 ## 🚀 Technical Expertise
