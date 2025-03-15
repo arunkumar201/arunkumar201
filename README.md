@@ -88,7 +88,6 @@ Non-custodial exchange supporting 10+ chains with slippage protection
 - 📬 **Reach Me**: 
   - Email: [arunprajapati1091@gmail.com](mailto:arunprajapati1091@gmail.com)
   - Twitter: [@arunkp23](https://x.com/arunkp23)
-  - LinkedIn: [arunkumarp2020](https://www.linkedin.com/in/arunkumarp2020/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" width="58%" />
