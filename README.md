@@ -6,7 +6,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunkp23)
   [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://arunp.hashnode.dev)
 </div>
-
+ 
 ## 🚀 Technical Expertise
 
 **Full Stack Architecture**  
