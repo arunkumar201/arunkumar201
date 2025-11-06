@@ -1,96 +1,136 @@
-<div align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <h1>Arun Kumar</h1>
-  <h3>Full Stack GEN AI & Web3 Developer | Distributed Systems Specialist</h3>
-  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunkp23)
-  [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://arunp.hashnode.dev)
-</div>
- 
-## 🚀 Technical Expertise
+# Arun Kumar
 
-**Full Stack Architecture**  
-Building scalable distributed systems using:
-- **Frontend**: Next.js 14, React, TypeScript, Redux, GraphQL, Tailwind CSS
-- **Backend**: Node.js, NestJS, Python, AWS (EC2, Lambda), Kafka, RabbitMQ
-- **Databases**: PostgreSQL, MongoDB, Redis with Prisma & Drizzle ORM
-- **DevOps**: Docker, Vercel, CI/CD pipelines, Cloud deployment
+**Senior Full Stack Engineer | Distributed Systems & AI**
 
-**AI Engineering**  
-Developing intelligent applications with:
-- Generative AI & LLM architectures
-- LangChain & LangGraph for agent systems
-- Next.js AI SDK integrations
-- n8n workflow automation
-- Python data stack (NumPy, Pandas)
+[Twitter](https://x.com/arunkp23) • [Blog](https://arunp.hashnode.dev)
 
-**Web3 Development**  
-Blockchain solutions featuring:
-- Smart Contracts (Solidity, Hardhat)
-- Multi-chain DApps (Wagmi, Viem, Web3Modal)
-- DeFi protocols (Uniswap, THORChain)
-- WorldID authentication
-- Tokenomics & Airdrop systems
+---
 
-## 🔭 Current Focus
+## Technical Focus
 
-- Building AI-enhanced full stack applications with RAG architectures
-- Developing serverless microservices on AWS
-- Implementing real-time systems with WebSocket & Kafka
-- Optimizing cross-chain swap protocols
-- Creating modular authentication systems
+I build scalable distributed systems with a focus on reliability, performance, and maintainability. My work spans full-stack development, AI integration, and blockchain infrastructure.
 
-## 🏆 Featured Projects
+### Core Stack
 
-### Ultimate Backend Starter Kit
-**TypeScript | Express | Redis | Docker**  
-Production-ready backend template with Zod validation, Redis caching, and RBAC  
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/arunkumar201/rest-api-using-ts)
+**Backend & Infrastructure**
+- Node.js, NestJS, Python with TypeScript-first approach
+- PostgreSQL, MongoDB, Redis (Prisma, Drizzle ORM)
+- AWS (EC2, Lambda), Docker, CI/CD pipelines
+- Message queuing: Kafka, RabbitMQ
+- RESTful APIs, GraphQL, WebSocket implementations
 
-### Web3 Survey Platform
-**Next.js 14 | WorldID | Wagmi | PostgreSQL**  
-Decentralized survey system with blockchain rewards and ZK-proof authentication  
-» Multi-chain wallet integration » Optimized contract interactions
+**Frontend & Client**
+- React, Next.js 14 (App Router, Server Components)
+- TypeScript, Redux, TanStack Query
+- Tailwind CSS, responsive design systems
 
-### AI-Powered Trading System
-**Python | LLMs | Kafka | Redis**  
-Algorithmic trading platform with predictive analytics and Telegram bot integration  
-» Real-time market analysis » Automated portfolio management
+**AI & Machine Learning**
+- LLM integration and orchestration (LangChain, LangGraph)
+- Agent systems and RAG architectures
+- Next.js AI SDK, workflow automation (n8n)
+- Python data processing (NumPy, Pandas)
+
+**Web3 & Blockchain**
+- Smart contract development (Solidity, Hardhat)
+- Multi-chain DApp infrastructure (Wagmi, Viem, Web3Modal)
+- DeFi protocol integration (Uniswap, THORChain)
+- Authentication systems (WorldID, Web3Auth)
+
+---
+
+## Current Work
+
+- Architecting AI-enhanced applications with retrieval-augmented generation
+- Building serverless microservices with event-driven patterns
+- Implementing real-time data pipelines with Kafka and WebSocket
+- Developing cross-chain swap protocols with slippage protection
+
+---
+
+## Selected Projects
+
+### Backend Starter Template
+**TypeScript • Express • Redis • Docker**
+
+Production-ready REST API template featuring:
+- Type-safe request validation (Zod)
+- Redis caching layer
+- Role-based access control
+- Comprehensive error handling
+- Docker containerization
+
+[Repository](https://github.com/arunkumar201/rest-api-using-ts)
+
+### Decentralized Survey Platform
+**Next.js 14 • WorldID • Wagmi • PostgreSQL**
+
+Blockchain-based survey system with:
+- Zero-knowledge proof authentication
+- Multi-chain wallet integration
+- Smart contract reward distribution
+- Optimistic UI updates
+- Server-side rendering for performance
+
+### Trading Analytics System
+**Python • Kafka • Redis • Telegram Bot**
+
+Real-time market analysis platform:
+- Event-driven architecture with Kafka
+- Redis for high-frequency data caching
+- LLM-powered predictive analytics
+- Automated portfolio rebalancing
+- Bot interface for monitoring and alerts
 
 ### Cross-Chain DEX
-**Next.js | THORChain | SwapKit**  
-Non-custodial exchange supporting 10+ chains with slippage protection  
-» Trustless swaps » Liquidity pool analytics
+**Next.js • THORChain • SwapKit**
 
-## 🛠 Technology Radar
+Non-custodial exchange supporting 10+ blockchains:
+- Trustless swap execution
+- Slippage protection mechanisms
+- Liquidity pool analytics
+- Real-time price aggregation
+
+---
+
+## Engineering Principles
+
+**Architecture**
+- Component-driven development with atomic design patterns
+- Microservices with clear service boundaries
+- Event-driven systems for decoupling
+- Infrastructure as Code
+
+**Quality & Performance**
+- Test-driven development (unit, integration, e2e)
+- Performance profiling and optimization
+- Caching strategies at multiple layers
+- Database query optimization
+
+**Security**
+- OWASP best practices
+- Smart contract auditing
+- Secure authentication flows
+- Rate limiting and DDoS protection
+
+**Operations**
+- Automated CI/CD pipelines
+- Zero-downtime deployments
+- Comprehensive monitoring and alerting
+- Disaster recovery planning
+
+---
+
+## Open For
+
+- Technical architecture discussions
+- Full-stack development contracts
+- Web3 protocol integrations
+- AI/ML engineering projects
+- Code reviews and consulting
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,nestjs,python,aws,kafka,redis,postgres,mongodb,docker,git,solidity,ai,graphql,tailwind,vercel" alt="Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar201&theme=radical" width="48%" />
 </div>
-
-## 📈 Engineering Philosophy
-
-> "Architecting systems that scale elegantly while maintaining developer velocity"
-
-- **Modular Design**: Component-driven development with atomic architecture
-- **Performance First**: Optimized queries, caching strategies, and load testing
-- **Secure Foundations**: OWASP principles, RBAC, and smart contract audits
-- **CI/CD Mindset**: Automated testing and zero-downtime deployments
-
-## 📫 Collaboration Hub
-
-- 💡 **Open For**: 
-  - Full-stack development contracts
-  - Web3 protocol integrations
-  - AI/ML engineering projects
-  - Technical consulting & architecture reviews
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar201&show_icons=true&theme=radical" width="58%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar201&theme=radical" width="58%" />
-</div>
-
-<p align="center">
-  <i>"The best way to predict the future is to implement it"</i><br>
-  <b>Let's architect tomorrow's solutions today!</b> 🚀
-</p>
