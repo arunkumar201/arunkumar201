@@ -2,7 +2,7 @@
 
 **Full Stack Engineer — Distributed Systems, AI, and Web3**
 
-[Portfolio](https://arunp-portfolio.vercel.app) • [Blog](https://arunp.hashnode.dev) • [GitHub](https://github.com/arunkumar201) • [Twitter](https://x.com/arunkp23)
+ [Blog](https://arunp.hashnode.dev) • [GitHub](https://github.com/arunkumar201) • [Twitter](https://x.com/arunkp23)
 
 ---
 
