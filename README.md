@@ -1,38 +1,25 @@
 # Arun Kumar
 
-**Senior Full Stack Engineer | Distributed Systems & AI**
+**Full Stack Engineer — Distributed Systems, AI, and Web3**
 
-[Twitter](https://x.com/arunkp23) • [Blog](https://arunp.hashnode.dev)
+[Portfolio](https://arunp-portfolio.vercel.app) • [Blog](https://arunp.hashnode.dev) • [GitHub](https://github.com/arunkumar201) • [Twitter](https://x.com/arunkp23)
 
 ---
 
-## Technical Focus
+## Overview
 
-I build scalable, reliable distributed systems across full-stack, AI, and blockchain domains.
-### Core Stack
+Engineer with experience designing and implementing **scalable distributed systems** across backend, frontend, AI, and blockchain domains.
+I focus on **performance**, **reliability**, and **clean system architecture** — from infrastructure to user-facing interfaces.
 
-**Backend & Infrastructure**
-- Node.js, NestJS, Python with TypeScript-first approach
-- PostgreSQL, MongoDB, Redis  (Prisma, Drizzle ORM)
-- AWS (EC2, Lambda,SES,SQS,SNS,ECS), Docker, CI/CD pipelines
-- Message queuing: BullMQ,RabbitMQ
-- RESTful APIs, GraphQL, WebSocket implementations
+---
 
-**Frontend & Client**
-- React, Next.js (App Router, Server Components)
-- TypeScript, Redux, TanStack Query,Redux,Zustand 
-- Tailwind CSS, responsive design systems
-
-**AI & Machine Learning**
-- LLM integration and orchestration (LangChain, LangGraph,LamaIndex etc)
-- Agent systems and RAG architectures
-- Next.js AI SDK, workflow automation (n8n)
-
-**Web3 & Blockchain**
-- Smart contract development (Solidity, Hardhat)
-- Multi-chain DApp infrastructure (Wagmi, Viem, Web3Modal)
-- DeFi protocol integration (Uniswap, THORChain)
-- Authentication systems (WorldID, Web3Auth)
+## Technical Profile
+* **Backend:** Node.js, NestJS, Python, FastAPI, TypeScript
+* **Databases:** PostgreSQL, MongoDB, Redis (Prisma, Drizzle,TypeORM)
+* **Cloud & DevOps:** AWS (Lambda, ECS, SQS, SNS, SES etc), Docker, CI/CD
+* **Frontend:** React, Next.js, TypeScript, Zustand, Redux, TanStack Query
+* **AI Systems:** LangChain, LangGraph, LlamaIndex, n8n, RAG pipelines
+* **Blockchain:** Solidity, Hardhat, Wagmi, Viem, Web3Modal, WorldID
 
 ---
 
