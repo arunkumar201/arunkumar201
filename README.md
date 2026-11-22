@@ -20,7 +20,7 @@ I build and ship production AI systems: multi-agent platforms, retrieval-augment
 
 ## My projects
 
-- **Zelvara** (private): a domain-agnostic agentic AI harness for building and running pluggable multi-agent systems across WhatsApp, Telegram, and web
+- **Zelvara** [live](https://zelvara-ai.vercel.app): a domain-agnostic agentic AI harness for building and running pluggable multi-agent systems across WhatsApp, Telegram, and web
 - [billiq-ai](https://github.com/arunkumar201/billiq-ai): AI generation studio (image, video, voice, custom agents) and RAG Q&A. [Live demo](https://billiq-ai.vercel.app)
 - [aws-lambda-puppeteer-scraper](https://github.com/arunkumar201/aws-lambda-puppeteer-scraper): serverless scraping pipeline on Lambda, SQS, and S3
 - [ai-crypto-chatbot](https://github.com/arunkumar201/ai-crypto-chatbot): AI assistant for crypto prices, stats, and trading strategies
